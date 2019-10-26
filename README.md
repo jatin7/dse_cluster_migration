@@ -35,3 +35,6 @@ Using Spark to migrate data from one cluster to another
 Using Spark to move a table to another table in the same cluster
 Programatically writing to DSEFS from Java
 Programatically using CQL to kick off DSE Analytics jobs (NOTE this is unsupported and undocumented at this time)
+
+Alternative 
+https://academy.datastax.com/content/datastax-bulk-loader-counting
